@@ -1,4 +1,4 @@
-# Python-101-From-N00B-to-N3RD
+# Python-101-From-Noob-to-Nerd
 Python 101: From N00B to N3RD, by Packt Publishing
 
 Harness the transformative power of Python in data analytics, unlocking real-world solutions and competitive insights. Dive into our comprehensive, compact, and uniquely tailored course, covering everything from Python's core concepts to advanced data structures and Pandas for data processing.
